@@ -1,5 +1,5 @@
 # Simple_Linear_Regression
-#For learning simple linear regression in Python
+#For learning simple linear regression using Python
 
 Converd Topic 
 
